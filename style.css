@@ -1,0 +1,26 @@
+body{
+    background-color: #101429;
+    text-align: center;
+    padding: 12%;
+}
+
+h1{
+    color:#e6292c;
+    font-family:Montserrat;
+    font-size: 90px;
+    position: absolute;
+    right: 35%;
+    bottom: 73%;
+    z-index: 1;
+    cursor:context-menu;
+}
+
+h2{
+    color:#e6292c;
+    font-family:Montserrat;
+    font-size: 90px;
+}
+
+iframe{
+    position: relative;
+}
